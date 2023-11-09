@@ -1,0 +1,11 @@
+<b><u>New Report!</u></b>
+
+<b>Reported ID:</b> {reported}
+<b>Usernames:</b> {usernames}
+
+<b>Amount:</b> {amount}
+<b>Summary:</b> {summary}
+<b>Reporter:</b> {reporter}
+
+<b><u>Proofs</u></b>
+{proofs}

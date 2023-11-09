@@ -1,0 +1,5 @@
+Your report against {mention} was denied, you can see the reason below:
+
+<code>
+{reason}
+</code>

@@ -1,0 +1,3 @@
+Please enter the amount you were scammed in USD. Or type N/A if this is not applicable
+
+<b>Eg:</b> <code>$50</code>, <code>20</code>, <code>N/A</code>

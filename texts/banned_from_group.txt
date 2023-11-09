@@ -1,0 +1,4 @@
+{mention} has been banned from this group.
+
+<a href="{report_message}">View Report</a>
+<a href="https://t.me/{bot}">Report a Scammer</a>

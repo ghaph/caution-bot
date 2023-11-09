@@ -1,0 +1,7 @@
+<b><u>New Appeal!</u></b>
+
+<b>User:</b> {mention}
+<b>Usernames:</b> {usernames}
+
+<b>Proofs</b>
+{proofs}

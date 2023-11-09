@@ -1,0 +1,6 @@
+❗️ Scammer's Username(s): {usernames}
+✍️ Scammer's Nickname: {name}
+🔒 Scammer ID: {user_link}
+💵 Scammed Amount: {amounts}
+👉 Explanation: {explanation}
+📩 Proof of scam: {reports}

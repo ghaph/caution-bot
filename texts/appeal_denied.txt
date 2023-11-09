@@ -1,0 +1,5 @@
+Your appeal was denied for the following reason:
+
+<code>
+{reason}
+</code>

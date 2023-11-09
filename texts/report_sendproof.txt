@@ -1,0 +1,6 @@
+<b>Selected User:</b> {mention}
+<b>Name:</b> {name}
+<b>Username(s):</b> {usernames}
+<b>User ID:</b> {uid}
+
+Please send the proof to backup your claim in this chat. After you've sent all your proof type /send to get it reviewed. You must not send more than 100 messages
